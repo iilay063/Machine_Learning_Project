@@ -1,7 +1,7 @@
 # Machine Learning Project
 
 This repository contains a machine learning exercise using the Titanic dataset. The goal is to predict passenger survival using various attributes provided in the dataset.
-
+https://youtu.be/S12SW2SHajY?si=K_Vl_-78g3HbbnJS - Explanation Video 
 ## Contents
 
 - `Assignment2_supervised_learning_flow.ipynb` – Jupyter Notebook implementing the model training workflow.
